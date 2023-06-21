@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72151950-ca8a-4f0b-bdc3-3c6cbc4bce8d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/builden/UserBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/builden/impl/UserBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/dto/CreateTaskDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/dto/CreateUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/dto/TaskDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/entity/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/usecase/CreateUserUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/usecase/FindAllUserUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/usecase/FindByIdUserUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/usecase/impl/CreateBookUseCaseImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/usecase/impl/FindAllUserUseCaseImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/nicolas/nicolasgfe/domain/usecase/impl/FindByIdUseCaseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +63,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/FACUL/PROGRAMACAO-WEB II/java/nicolasgfe/demo/src/main/java/com/nicolas/nicolasgfe",
+    "last_opened_file_path": "C:/FACUL/PROGRAMACAO-WEB II/java/nicolasgfe/demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "fe01ce2a7fbac8fafaed7c982a04e229",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +98,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687276560742</updated>
-      <workItem from="1687276561919" duration="1567000" />
+      <workItem from="1687276561919" duration="1626000" />
+      <workItem from="1687299042941" duration="149000" />
+      <workItem from="1687303903864" duration="47000" />
+      <workItem from="1687303973935" duration="50000" />
+      <workItem from="1687304051231" duration="47000" />
     </task>
     <servers />
   </component>
